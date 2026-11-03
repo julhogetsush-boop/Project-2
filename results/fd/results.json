@@ -1,0 +1,24 @@
+{
+  "environment": {
+    "python": "3.13.4",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+    "numerical_threads": 1
+  },
+  "fits": {
+    "manufactured": {
+      "order": 2.0018469605300724,
+      "max_log_deviation": 0.0009766016812253753
+    },
+    "physical": {
+      "order": 1.9976697022886551,
+      "max_log_deviation": 0.0012300642281903862
+    }
+  },
+  "beta": 0.07921050918471804,
+  "kappa": 0.012606744081573853,
+  "T0_Nm": 50.44558141501045
+}
